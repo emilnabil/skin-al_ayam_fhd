@@ -11,9 +11,9 @@ echo ""
 
 # 
 FILES=(
-    "TeamNitro.tar.gz:https://github.com/biko-73/TeamNitro/raw/main/skins/TeamNitro.tar.gz"
-    "AL_AYAM_FHD1.tar.gz:https://github.com/biko-73/TeamNitro/raw/main/skins/AL_AYAM_FHD1.tar.gz"
-    "AL_AYAM_FHD2.tar.gz:https://github.com/biko-73/TeamNitro/raw/main/skins/AL_AYAM_FHD2.tar.gz"
+    "Team Nitro.tar.gz:https://github.com/biko-73/TeamNitro/raw/refs/heads/main/skins/Team%20Nitro.tar.gz"
+    "AL_AYAM_FHD1.tar.gz:https://github.com/biko-73/TeamNitro/raw/refs/heads/main/skins/AL_AYAM_FHD1.tar.gz"
+    "AL_AYAM_FHD2.tar.gz:https://github.com/biko-73/TeamNitro/raw/refs/heads/main/skins/AL_AYAM_FHD2.tar.gz"
 )
 
 TMP_DIR="/var/volatile/tmp"
@@ -58,5 +58,6 @@ echo "**************************************************"
 echo "**                   FINISHED                   **"
 echo "**************************************************"
 exit 0
+
 
 
